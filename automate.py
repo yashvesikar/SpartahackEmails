@@ -77,11 +77,11 @@ def fillTemplate(data,name):
             never_resp +=1
             response = """Hello,
 
-My name is {yourName} and I'm on the Sponsorship team for SpartaHack IV, Michigan State University’s annual student-run hackathon. Last January, we welcomed over 600 student developers from around the country for the second-annual SpartaHack — a weekend where students of all skill levels and disciplines learned new technologies, got creative with tech, and connected with peers and company sponsors.
+My name is {yourName} and I'm on the Sponsorship team for SpartaHack IV, Michigan State University’s annual student-run hackathon. Last January, we welcomed over 600 student developers from around the country for the third-annual SpartaHack — a weekend where students of all skill levels and disciplines learned new technologies, got creative with tech, and connected with peers and company sponsors.
 
 Since last January, our team has been hard at work on new designs, technologies, and ideas to make our 2018 event even better. We will bring together 500 students from MSU and beyond for another 36-hour coding marathon on the weekend of January 19-21, 2018.
 
-We would love to partner with {company} this year to make SpartaHack IV an even bigger success. In the attached documents you will find more information about SpartaHack, including attendee statistics from last year and our updated sponsorship packages.
+We would love to partner with {company} this year to make SpartaHack IV an even bigger success. In the attached documents you will find more information about SpartaHack and our updated sponsorship packages.
 
 Please let us know whether you are interested in supporting SpartaHack IV. If you would prefer to set up a phone call, let me know when you are available in the next week. We look forward to working with you!
 
@@ -96,10 +96,9 @@ SpartaHack IV
 
 Last January, {company} helped our team put on an incredible hackathon for over 600 student developers. Because of your involvement, these students had an unparalleled opportunity to connect, learn, experiment, design, and ultimately drive the creation of a technical project from start to finish. Together, {company} and SpartaHack can make this happen again.
 
-My name is {yourName} and I'm on the Sponsorship team for SpartaHack IV, Michigan
-State University’s annual student-run hackathon. Since last January, our team has been hard at work on new designs, technologies, and ideas to make our 2018 event even better. We will bring together 500 students from around the country for another 36-hour coding marathon on the weekend of January 19-21, 2018.
+My name is {yourName} and I'm on the Sponsorship team for SpartaHack IV, Michigan State University’s annual student-run hackathon. Since last January, our team has been hard at work on new designs, technologies, and ideas to make our 2018 event even better. We will bring together 500 students from around the country for another 36-hour coding marathon on the weekend of January 19-21, 2018.
 
-{specific}, and we would love to work with you again this year. In the attached documents, you will find more information about SpartaHack, including attendee statistics from last year and our updated sponsorship packages.
+{specific}, and we would love to work with you again this year. In the attached documents, you will find more information about SpartaHack, and our updated sponsorship packages.
 
 Please let us know whether you are interested in returning for SpartaHack IV. If you would prefer to set up a phone call, let me know when you are available in the next week. I look forward to working with you!
 
@@ -110,11 +109,11 @@ Thank you,
             comm_fell_through+=1
             response = """Hello,
 
-My name is {yourName} and I'm on the Sponsorship team for SpartaHack IV, Michigan State University’s annual student-run hackathon. Last January, we welcomed over 600 student developers from around the country for the second-annual SpartaHack — a weekend where students of all skill levels and disciplines learned new technologies, got creative with tech, and connected with peers and company sponsors.
+My name is {yourName} and I'm on the Sponsorship team for SpartaHack IV, Michigan State University’s annual student-run hackathon. Last January, we welcomed over 600 student developers from around the country for the third-annual SpartaHack — a weekend where students of all skill levels and disciplines learned new technologies, got creative with tech, and connected with peers and company sponsors.
 
 Since last January, our team has been hard at work on new designs, technologies, and ideas to make our 2018 event even better. We will bring together 500 students from MSU and beyond for another 36-hour coding marathon on the weekend of January 19-21, 2018.
 
-{specific} We would love to partner with {company} this year to make SpartaHack IV an even bigger success. In the attached documents you will find more information about SpartaHack, including attendee statistics from last year and our updated sponsorship packages.
+{specific} We would love to partner with {company} this year to make SpartaHack IV an even bigger success. In the attached documents you will find more information about SpartaHack and our updated sponsorship packages.
 
 Please let us know whether you are interested in supporting SpartaHack IV. If you would prefer to set up a phone call, let me know when you are available in the next week. We look forward to working with you!
 
