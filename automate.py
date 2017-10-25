@@ -147,7 +147,7 @@ def main():
                 myCompanies.append(company.lower().strip("\n"))
             # print(len(myCompanies))
         except Exception as ex:
-            print(ex.message)
+            print(ex)
 
         allData = cleanData(contacts,budget)
         filteredData = filterData(myCompanies,allData)
